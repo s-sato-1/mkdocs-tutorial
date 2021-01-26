@@ -24,7 +24,7 @@ $ mkdocs -V
 mkdocs, version 1.1.2
 ```
 
-## `my-site`を作成
+## my-siteを作成
 
 ```
 $ mkdocs new my-site
