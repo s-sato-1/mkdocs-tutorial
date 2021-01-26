@@ -13,7 +13,7 @@ pip 20.0.2 from /usr/lib/python3/dist-packages/pip (python 3.8)
 ```
 $ python -m venv venv
 $ . ./venv/bin/activate
-$ source ./venv/bin/activate
+$ source ./venv/bin/activate // もしくは
 ```
 
 ## mkdocsをインストール
