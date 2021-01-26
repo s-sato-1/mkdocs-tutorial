@@ -13,7 +13,7 @@ pip 20.0.2 from /usr/lib/python3/dist-packages/pip (python 3.8)
 ```
 $ python -m venv venv
 $ . ./venv/bin/activate
-$ source ./venv/bin/activate
+$ source ./venv/bin/activate // もしくは
 ```
 
 ## mkdocsをインストール
@@ -24,7 +24,7 @@ $ mkdocs -V
 mkdocs, version 1.1.2
 ```
 
-## `my-site`を作成
+## my-siteを作成
 
 ```
 $ mkdocs new my-site
